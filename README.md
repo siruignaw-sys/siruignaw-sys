@@ -9,8 +9,8 @@ This profile is where I'll be uploading most of my projects, small to large. Sta
 - Adding to Handy
 - Going more in-depth on DSA
 ---
-Skills (proficient to some degree)
- - Java (somewhat)
+Skills
+ - Java
  - Python
  - C
  - Rust

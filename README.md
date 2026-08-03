@@ -9,6 +9,7 @@ Skills (proficient to some degree)
  - Java (somewhat)
  - Python
  - C
+ - Rust
  - Blender :P
 ---
 Some fun facts about me ✨

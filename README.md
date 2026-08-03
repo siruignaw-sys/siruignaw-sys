@@ -4,6 +4,10 @@ I'm Sirui, a student with interests spread across a wide range of fields from pr
 
 This profile is where I'll be uploading most of my projects, small to large. Stay tuned!
 
+**I'm currently working on**
+- Whisper-based projects
+- Adding to Handy
+- Going more in-depth on DSA
 ---
 Skills (proficient to some degree)
  - Java (somewhat)
@@ -15,6 +19,7 @@ Skills (proficient to some degree)
 Some fun facts about me ✨
  - I participate in and perform traditional Chinese lion dance! 🦁
  - I have a cat (but he has no name.)
+
 <!--
 **siruignaw-sys/siruignaw-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

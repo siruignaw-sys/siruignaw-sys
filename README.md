@@ -8,6 +8,7 @@ This profile is where I'll be uploading most of my projects, small to large. Sta
 - Whisper-based projects
 - Adding to Handy
 - Going more in-depth on DSA
+- Bioengineering combined with ML for reducing pichia proteins
 ---
 Skills
  - Java

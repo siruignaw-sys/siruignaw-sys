@@ -11,10 +11,10 @@ This profile is where I'll be uploading most of my projects, small to large. Sta
 - Bioengineering combined with ML for reducing pichia proteins
 ---
 Skills
+ - Rust
  - Java
  - Python
  - C
- - Rust
  - Blender :P
 ---
 Some fun facts about me ✨
